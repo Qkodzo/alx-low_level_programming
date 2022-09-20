@@ -11,8 +11,6 @@
  *
  *@src: string to be copied
  *
- *
- *
  *Return: the pointer to dest
  *
  */
