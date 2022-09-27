@@ -1,4 +1,4 @@
-#include "ma.h"
+#include "main.h"
 #include <stdio.h>
 
 /**
