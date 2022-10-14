@@ -1,0 +1,1 @@
+Project containing variadic_functions tasks
